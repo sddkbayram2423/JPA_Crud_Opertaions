@@ -21,7 +21,7 @@
 	
 	<properties>
 		<mysql.version>8.0.17</mysql.version>
-		<hibernate.version>5.4.4.Final</hibernate.version>
+		<hibernate.version>5.4.24.Final</hibernate.version>
 		<hibernate.C3P0.version>5.4.4.Final</hibernate.C3P0.version>
 		
 	</properties>
