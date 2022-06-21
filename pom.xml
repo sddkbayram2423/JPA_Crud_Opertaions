@@ -20,7 +20,7 @@
 	</build>
 	
 	<properties>
-		<mysql.version>8.0.17</mysql.version>
+		<mysql.version>8.0.28</mysql.version>
 		<hibernate.version>5.4.4.Final</hibernate.version>
 		<hibernate.C3P0.version>5.4.4.Final</hibernate.C3P0.version>
 		
